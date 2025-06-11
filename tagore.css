@@ -102,7 +102,7 @@ nav {
 }
         
 .hero h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     margin-bottom: 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
@@ -128,7 +128,7 @@ nav {
 .hero h1:hover{
     transform: translateY(-10px);
     transition-duration: 0.5s;
-    font-size: 5.5rem;
+    font-size: 3.3rem;
     text-shadow: #f0f0f0;
 } 
 .btn:hover {
@@ -321,7 +321,7 @@ nav {
 
 .social-links {
     display: flex;
-    gap: 1rem;
+    gap: 0.1rem;
     margin-top: 1rem;
 }
 
@@ -337,7 +337,6 @@ nav {
 }
 
 .social-links a:hover {
-    background: var(--accent-color);
     transform: translateY(-2px);
 }
 
@@ -485,6 +484,13 @@ h2, h3, h4, h5 {
     .navreal { 
         flex-direction: column; 
     }
+    .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 0.1rem;
+    margin-top: 1rem;
+    }
+
 }
 
 @media (max-width: 480px) {
