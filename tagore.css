@@ -128,7 +128,7 @@ nav {
 .hero h1:hover{
     transform: translateY(-10px);
     transition-duration: 0.5s;
-    font-size: 5.5rem;
+    font-size: 3.5rem;
     text-shadow: #f0f0f0;
 } 
 .btn:hover {
