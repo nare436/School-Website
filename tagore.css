@@ -23,7 +23,6 @@ body {
     margin: 0;
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
     background: linear-gradient(to right, #ffffff, #abbaab);
-    overflow-x: hidden;
     position: relative;
 }
 
@@ -168,9 +167,10 @@ nav {
     transition: all 0.3s ease;
 }
 .spc i {
-    transform: scale(2.5);
+    margin-top: 1rem;
+    transform: scale(2);
     margin-bottom: 30px;
-    color: rgb(94, 94, 243);
+    color: rgb(110, 110, 239);
     display: block;
 }
 .spc h3 {
