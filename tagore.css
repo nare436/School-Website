@@ -7,7 +7,7 @@
     padding: 0;
     box-sizing: border-box;
     margin-right: 0;
-    overflow-x:hidden;
+    overflow-x:auto;
 }
 
 /* BASE TYPOGRAPHY */
