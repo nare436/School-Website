@@ -20,11 +20,6 @@ This repository contains a **fully responsive website** for **Tagore Senior Seco
 - FontAwesome icon integration
 - Responsive typography using `clamp()` for smooth scaling
 
-### 📱 Responsive Layout
-- Mobile-first design with optimized media queries
-- Flexbox-based layout for dynamic screen adaptation
-- Touch-friendly navigation structure
-
 ### ✨ Interactive Elements
 - CSS hover effects on cards, buttons, and forms
 - Subtle animated backgrounds via keyframes
@@ -39,15 +34,6 @@ This repository contains a **fully responsive website** for **Tagore Senior Seco
 - **Director’s Message** – Highlighted area with contact form
 - **Faculty Showcase** – Stylish teacher profiles with alternating layouts
 - **Footer** – Contact details, team credits, and Google Maps embed
-
----
-
-## 🚀 Why This Project?
-
-- Demonstrates **modern CSS techniques** without relying on JavaScript
-- Serves as a clean template for **educational institution websites**
-- Highlights strong **responsive design principles**
-- Uses semantic, accessible, and maintainable HTML structure
 
 ---
 
